@@ -23,7 +23,6 @@ export default class App extends Component {
   }
   Login = () =>{
     this.setState({isLogin: !this.state.isLogin })
-    console.log("sss")
   }
  
   render() {

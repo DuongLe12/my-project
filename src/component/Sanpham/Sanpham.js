@@ -35,8 +35,8 @@ export default class Sanpham extends Component {
 
                             </td>
                             <td className='flex flex-colum'>
-                                <button type='button'  class="btn btn-primary text-center ml-2">Sửa</button>
-                                <button type='button'  class="btn btn-primary text-center ml-2">Xóa</button>
+                                <button type='button'  className="btn btn-primary text-center ml-2">Sửa</button>
+                                <button type='button'  className="btn btn-primary text-center ml-2">Xóa</button>
                             </td>
                         </tr>                        
                         </tbody>

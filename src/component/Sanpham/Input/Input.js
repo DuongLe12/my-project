@@ -24,7 +24,7 @@ export default class Input extends Component {
                     </div>
                     <div className="form-group">
                         <label htmlFor="hinhanh">Hình ảnh:</label>
-                        <input type="file" class="form-control-file border" name="file" placeholder="Chọn ảnh..."></input>
+                        <input type="file" className="form-control-file border" name="file" placeholder="Chọn ảnh..."></input>
                     </div>
                     <div className='text-center mb-3'>
                         <button type="reset" className="btn btn-primary btn-customized mr-2">Reset</button>
